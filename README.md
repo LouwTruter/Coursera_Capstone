@@ -19,7 +19,7 @@ This process should provide structure their search and even provide some rare in
 ## Data Description
 The data identification and understanding is described in this section. 
 
-The clustering that was introduced in the previous section will rely on data to quantify the attractiveness of various Candadian cities from the perspective of new residents. The following data will be used. 
+The clustering that was introduced in the previous section will rely on data to quantify the attractiveness of various Candadian cities from the perspective of new residents. Location and population data of the different Canadian cities can be found here: [[source]](https://simplemaps.com/data/ca-cities). The following data will be used together with the location and population data for the clustering. 
 
 | **Attribute**                                   | **Data source**    | **Quantification method**                                                           |
 |---------------------------------------------|----------------|------------------------------------------------------------------------------|
